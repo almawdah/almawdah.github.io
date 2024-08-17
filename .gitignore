@@ -1,6 +1,6 @@
 
 app.log
-info_brands_dev.bat
-info_brands_dev.py
+info_brands_latest.bat
+info_brands_latest.py
 *.json
 *.txt
